@@ -1,3 +1,5 @@
+##this email sender requires a list of addresses and attachments in an excel list like the one in the branch
+
 import win32com.client as win32
 from datetime import datetime
 import os
